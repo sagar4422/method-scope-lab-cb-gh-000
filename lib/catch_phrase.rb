@@ -4,4 +4,4 @@ def catch_phrase(phrase)
   return phrase
 end
 
-catch_phrase
+catch_phrase(phrase)
